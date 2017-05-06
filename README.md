@@ -79,7 +79,8 @@ A collection of implementations for 'how far can we go with MNIST' challenge, wh
 ### Wonseok Jeon
 * Test accuracy : 0.9930
 * Features : tensorflow, a single model (conv5-pool-conv5-pool-fc)
-* https://github.com/wsjeon/DeepMNISTforExperts
+* (original) https://github.com/wsjeon/DeepMNISTforExperts
+* (updated) https://www.dropbox.com/sh/pnlyb3fqgghm3i6/AAARrOAdOhRa54YeyfqvfBfKa?dl=0
 
 ### Byungsun Bae
 * Test accuracy : 0.9779
