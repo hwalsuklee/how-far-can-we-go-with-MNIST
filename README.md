@@ -101,5 +101,5 @@ A collection of implementations for 'how far can we go with MNIST' challenge, wh
 * Here are reference results for MNIST : http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html
 
 <p align="center">
-<img src='TF-KR.jpg' height = '300px'>
+<img src='TF-KR.jpg' height = '200px'>
 </p>
