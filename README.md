@@ -90,7 +90,7 @@ A collection of implementations for 'how far can we go with MNIST' challenge, wh
 ### Sung Kim
 * Test accuracy : 0.8880
 * Features : tensorflow, logistic regression
-* https://gist.github.com/nicewook/44a57e24e46dd531681f973b433b7fd0
+* https://github.com/hunkim/DeepLearningZeroToAll/blob/master/lab-07-4-mnist_introduction.py
 
 ## Acknowledgements
 * You may need to download uploaded models *manually*, especially for the case that models are stored with Git LFS.
