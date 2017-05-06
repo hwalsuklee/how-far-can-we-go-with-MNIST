@@ -99,3 +99,7 @@ A collection of implementations for 'how far can we go with MNIST' challenge, wh
 ## Acknowledgements
 * You may need to download uploaded models *manually*, especially for the case that models are stored with Git LFS.
 * Here are reference results for MNIST : http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html
+
+<p align="center">
+<img src='TF-KR.jpg' height = '300px'>
+</p>
