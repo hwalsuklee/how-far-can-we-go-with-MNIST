@@ -1,7 +1,9 @@
 # How far can we go with MNIST??
 A collection of implementations for 'how far can we go with MNIST' challenge, which has been held in [TF-KR](https://www.facebook.com/groups/TensorFlowKR) at April 2017.
 
-<center><img src='how-far-can-we-go-with-MNIST.jpg' height = '200px'></center>
+<p align="center">
+<img src='how-far-can-we-go-with-MNIST.jpg' height = '300px'>
+</p>
 
 ## List of Implementations
 ### Kyung Mo Kweon
