@@ -34,7 +34,8 @@ A collection of implementations for 'how far can we go with MNIST' challenge, wh
 ### Mintae Kim
 * Test error : 0.35%  
 * Features : keras, ensemble of 3 models obtained with different filter size and same architecture (VGG-like), best accuracy with a single model is 0.9959, data augmentation (shift, rotation) 
-* https://github.com/kimmintae/MNIST/blob/master/MNIST%20Competition/mnist_competition.ipynb
+* (original) https://github.com/kimmintae/MNIST/blob/master/MNIST%20Competition/mnist_competition.ipynb
+* (updated, 0.20% test error) https://github.com/kimmintae/MNIST/blob/master/MNIST%20Competiton_9980/mnist_competition_9980_Final.ipynb
 
 ### Juyoung Lee
 * Test error : 0.37% 
